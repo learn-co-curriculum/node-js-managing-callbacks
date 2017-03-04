@@ -100,7 +100,7 @@ Let's work through a code-along example together, to see how it can help us deal
 
 ## Code-Along: Using the Async Waterfall Function
 
-To get started, open up the `async-example.js` file in the root. Inside we have a few lines of code just to get us started. At the top, we have some require calls that pull in the modules that we'll be using. Go ahead an install those modules. No need to use the `--save` flag as this is just an exercise.
+To get started, open up the `async-example.js` file in the root. Inside we have a few lines of code just to get us started. At the top, we have some require calls that pull in the modules that we'll be using. Go ahead and install those modules. No need to use the `--save` flag as this is just an exercise.
 
 The other two lines create some constants `WEATHER_API_URL` and `WEATHER_API_KEY`. What we are going to build here is a simple command line app that asks the user to type in a city for which they would like to have weather data. These constants are configuration data that we'll need to obtain weather data from [OpenWeatherMap](http://openweathermap.org/about), a company that provides an API for obtaining weather information.
 
